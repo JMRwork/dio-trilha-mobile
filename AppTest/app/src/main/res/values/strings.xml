@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppTest</string>
+    <string name="main">Olá, esse é o texto padrão do aplicativo.</string>
+</resources>
